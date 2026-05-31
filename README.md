@@ -6,7 +6,7 @@ Bu depo, dönem boyunca hafta hafta işlenen **Python Programlama** dersine ait 
 
 ## 📅 Haftalık Resmi Müfredat Akışı
 
-| Hafta | İşlenen Konu Başlığı | Öğrenilen Temel Kavramlar & Detaylar | İlgili Kod Dosyaları |
+| Hafta | İşlenen Konu Başlığı | Öğrenilen Temel Kavramlar & Detaylar
 | :---: | :--- | :--- | :--- |
 | **2** | **Giriş, Temel Veri Tipleri & Slicing** | `int`, `float`, `str`, `bool` veri tipleri. Değişken atama kuralları, dinamik tür dönüşümleri (`Type Casting`). Karakter dizilerinde indeksleme ve dilimleme (`Slicing`) mekanizmaları.
 | **3** | **Koşullu Durumlar (Decision Making)** | `if`, `elif` ve `else` blokları. Mantıksal operatörler (`and`, `or`, `not`) ve karşılaştırma ifadeleri. `is` ve `is not` anahtar kelimelerinin kullanımı.
